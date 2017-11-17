@@ -1,0 +1,10 @@
+body {
+	background-color: #ffffff;
+}
+.route-like-active {
+	color:#007aff;
+}
+#tmpl {
+	margin-top: 45px;
+	margin-bottom: 50px;
+}
